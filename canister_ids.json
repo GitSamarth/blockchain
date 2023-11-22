@@ -1,0 +1,8 @@
+{
+  "blockchain_backend": {
+    "ic": "nx352-3yaaa-aaaam-abzha-cai"
+  },
+  "blockchain_frontend": {
+    "ic": "nq23o-waaaa-aaaam-abzhq-cai"
+  }
+}
